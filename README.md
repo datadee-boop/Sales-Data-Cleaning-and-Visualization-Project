@@ -1,4 +1,4 @@
-📊 Sales Data Analysis and Visualization
+# 📊 Sales Data Analysis and Visualization
 
 📋 Table of Contents
 
